@@ -1,0 +1,6 @@
+@Gertec.Storage_HostAddress = http://localhost:5294
+
+GET {{Gertec.Storage_HostAddress}}/gertecstorage
+Accept: application/json
+
+###
